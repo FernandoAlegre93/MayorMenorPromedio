@@ -1,0 +1,6 @@
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 5 TP3\Ejercicio 5 TP3\bin\Debug\Ejercicio 5 TP3.exe
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 5 TP3\Ejercicio 5 TP3\bin\Debug\Ejercicio 5 TP3.pdb
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 5 TP3\Ejercicio 5 TP3\obj\x86\Debug\Ejercicio 5 TP3.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 5 TP3\Ejercicio 5 TP3\obj\x86\Debug\Ejercicio 5 TP3.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 5 TP3\Ejercicio 5 TP3\obj\x86\Debug\Ejercicio 5 TP3.exe
+C:\Users\Fer\Desktop\Nueva carpeta\Ejercicio 5 TP3\Ejercicio 5 TP3\obj\x86\Debug\Ejercicio 5 TP3.pdb

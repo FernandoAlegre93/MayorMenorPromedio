@@ -1,0 +1,4 @@
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5.TP3\bin\Debug\Ejercicio 5.TP3.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5.TP3\bin\Debug\Ejercicio 5.TP3.pdb
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5.TP3\obj\x86\Debug\Ejercicio 5.TP3.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 5.TP3\obj\x86\Debug\Ejercicio 5.TP3.pdb
